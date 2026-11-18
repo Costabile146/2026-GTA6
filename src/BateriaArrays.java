@@ -398,8 +398,8 @@ public static void Ejercicio20(){
                 System.out.println("Existe dentro del array");
                 contador++;
             }
+            System.out.println("Prueba 1 de git");
         }
         System.out.println("Se encontraron "+contador+" veces dentro del Array :D");
 }
-
 }
